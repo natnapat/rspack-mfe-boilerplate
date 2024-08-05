@@ -1,0 +1,15 @@
+{
+  "name": "rspack-mfe-boilerplate",
+  "version": "1.0.0",
+  "description": "a microfrontend boilerplate using rspack and turborepo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "natnapat",
+  "devDependencies": {
+    "turbo": "^2.0.11"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
